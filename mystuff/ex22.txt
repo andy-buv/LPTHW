@@ -1,0 +1,63 @@
+^ - caret character
+.py - to save file a python file
+""" - block comment : can also be used to print block text
+print - outputs code !Python 2
+print() - same as above but is a function in Python3!
+#  - single line comment
++ - concatenates strings
+"string example" - enclose strings with " " (double quotes) or ' ' (single quotes). 
+_ - underscore character
+
+PEMDAS aka BODMAS - Paranthesis, Exponents, Multiplication, Division, Addition, Subtraction.
+, - when outputing multiple instances
++ - addition
+/ - division 
+* - multiplication
+% - modulo
+- - subtraction
+1 - integer representation of 1
+1.0 - floating point representation of 1
+< - is less than conditional
+<= - is less than or equal conditional
+> - is greater than conditional
+>= - is greater than or equal conditional
+== - is equal to conditional
+
+True - boolean value
+False - boolean value
+
+= - assign variable
+%s - format string
+%d - format digit
+%r - format raw
+% (variable_one, variable_two) - 
+
+, - use comma to keep code on the same line
+
+round() - rounds floating numbers
+\n - ASCII linefeed (LF)
+\ - escape character
+\t - Horizontal Tab (TAB)
+\\ - backslash
+\' - Single-quote (')
+\" - Double-quote (")
+\a - ASCII bell (BEL)
+\b - ASCII backspace (BS)
+\f - ASCII formfeed (FF)
+\N{name} - Character named name in the Unicode database (Unicode only)
+\r - Carriage Return (CR)
+\uxxxx - Character with 16-bit hex value (Unicode only)
+\Uxxxxxxxx - Character with 32-bit hex value xxxxxxxx (Unicode only)
+\v - ASCII vertical tab (VT)
+\ooo - Character with octal value ooo
+\xhh - Character with hex value hh
+
+raw_input([prompt]) - allows user input with a customizable prompt ! Python 2
+input([prompt]) - Python 3
+u'35' - unicode 35
+pydoc - for quick documentation on Python from terminal. Note not within Python
+
+import - used for importing modules e.g. import math
+from sys import argv - imports argument value moduel from sys. All arguments are imported as strings
+
+
